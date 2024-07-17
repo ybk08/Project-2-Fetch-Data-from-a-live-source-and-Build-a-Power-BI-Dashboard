@@ -46,7 +46,7 @@ This project focuses on analyzing Walmart sales data, including data fetching, p
 
 `Python_Script.py`: Contains the complete code used for fetching data from live data source.
 
-`Report documenting the process followed for creating Dashboard.txt`: Contains districts after the formation of Telangana from Andhra Pradesh. 
+`Report documenting the process followed for creating Dashboard.docx`: Contains the Steps followed for creating a Dashboard. 
 
 ## Contact Information
 

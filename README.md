@@ -42,13 +42,11 @@ This project focuses on analyzing Walmart sales data, including data fetching, p
 
 ## File Structure
 
-`census_2011.xlsx`: Contains the raw data.
+`Walmart_Sales_Report.pbix`: Contains the Final PowerBI Report.
 
-`census.py`: Contains the complete code for the project, organized into sections for data pipeline and analysis.
+`Python_Script.py`: Contains the complete code used for fetching data from live data source.
 
-`Telangana.txt`: Contains districts after the formation of Telangana from Andhra Pradesh. 
-
-`db_credentials.txt`: Contains Database username and password.
+`Report documenting the process followed for creating Dashboard.txt`: Contains districts after the formation of Telangana from Andhra Pradesh. 
 
 ## Contact Information
 

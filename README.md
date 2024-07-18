@@ -48,6 +48,8 @@ This project focuses on analyzing Walmart sales data, including data fetching, p
 
 `Report documenting the process followed for creating Dashboard.docx`: Contains the Steps followed for creating a Dashboard. 
 
+`Walmart_Sales_Data_Analysis.pptx`: Contains the short presentation on insights and visuals which will help making a informed decision for the company..
+
 ## Contact Information
 
 For questions or support, please contact yashkoli995@gmail.com.
